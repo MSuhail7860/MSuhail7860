@@ -26,7 +26,8 @@
   </a>
 </p>
 
-
+## 📌 Fun Fact
+I enjoy solving problems and turning ideas into code.
 
 
 
