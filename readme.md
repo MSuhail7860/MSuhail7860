@@ -1,5 +1,4 @@
-# 💫 About Me:
- 👋 Hi, I'm Muhammad Suhail Jalal<br><br>Web Developer | DSA Problem Solver | Tech Enthusiast
+# 💫 About Me:👋 Hi, I'm Muhammad Suhail Jalal<br><br>Web Developer | DSA Problem Solver | Tech Enthusiast
 
 
 ## 🌐 Socials:
