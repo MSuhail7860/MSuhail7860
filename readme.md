@@ -1,9 +1,11 @@
 # 👋 Hi, I'm Muhammad Suhail Jalal
 
-✨ Web Developer | 🧠 DSA Problem Solver | 🚀 Tech Enthusiast
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=42A5F5&center=true&vCenter=true&width=435&lines=Web+Developer;DSA+Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
+</p>
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:suhailjalal2005@gmail.com) 
 
 # 💻 Tech Stack:
