@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Muhammad Suhail Jalal
 
-#✨ Web Developer | 🧠 DSA Problem Solver | 🚀 Tech Enthusiast
+✨ Web Developer | 🧠 DSA Problem Solver | 🚀 Tech Enthusiast
 
 
 ## 🌐 Socials:
