@@ -15,8 +15,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.shion.dev/api?username=MSuhail7860&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
-  <img width="48%" src="https://streak-stats.demolab.com/?user=MSuhail7860&theme=radical&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MSuhail7860&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=MSuhail7860&theme=radical&hide_border=true" />
 </p>
 
 ## 📈 Top Languages
