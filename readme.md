@@ -66,6 +66,10 @@
   <a href="https://github.com/MSuhail7860">
     <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
+
+  <a href="https://www.linkedin.com/in/muhammad-suhail-jalal-8aa331258" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 </p>
 
 ---
