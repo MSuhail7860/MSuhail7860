@@ -25,6 +25,12 @@
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=MSuhail7860&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
 </p>
 
+## 🐍 Contribution Snake
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MSuhail7860/MSuhail7860/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MSuhail7860/MSuhail7860/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MSuhail7860/MSuhail7860/output/github-contribution-grid-snake.svg">
+</picture>
 
 ## 🌐 Connect With Me
 
