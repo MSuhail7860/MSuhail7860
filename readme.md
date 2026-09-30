@@ -8,6 +8,8 @@
   <b>💻 Full-Stack Developer • 🧩 DSA Problem Solver • 🚀 Continuous Learner</b>
 </p>
 
+
+
 ---
 
 ## 👨‍💻 About Me
@@ -81,6 +83,10 @@
 
 ---
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MSuhail7860&label=Profile%20Views&color=007BFF&style=for-the-badge" alt="profile views"/>
+</p>
+ 
 <p align="center">
   ⭐ Thanks for visiting my profile!
 </p>
