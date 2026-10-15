@@ -34,8 +34,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MSuhail7860&theme=radical&hide_border=true&show_icons=true" />
-  <img width="48%" src="https://streak-stats.demolab.com?user=MSuhail7860&theme=radical&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MSuhail7860&theme=radical&hide_border=true&show_icons=true&v=20261015" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=MSuhail7860&theme=radical&hide_border=true&v=20261015" />
 </p>
 
 ---
